@@ -1,5 +1,5 @@
 # 🧪 PowerShell LOLBins Investigation - Lab 3
-
+Threat Type: PowerShell-based Fileless Malware (LOLBins)
 ## 🚨 Alert Summary:
 - EDR Alert: Suspicious PowerShell Execution
 - Source Process: `powershell.exe`
