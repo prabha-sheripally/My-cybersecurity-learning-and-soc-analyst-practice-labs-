@@ -1,6 +1,7 @@
 # 🔍 Hash Analysis - Lab 1
+Threat Type: Malware Detection via Hash Analysis
 ## 🧪 File Details:
-- File: `sample.docx`
+- File submitted: `sample.docx`
 - SHA256 Hash: `e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855` *(Example)*
 ## 🔗 VirusTotal Result:
 - Detected as: Malicious
