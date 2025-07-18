@@ -1,4 +1,5 @@
 # 📧 Phishing Email Investigation - Lab 2
+Threat Type: Phishing Attack with Malicious Attachment
 ## 🚨 Alert Details:
 - Source: Microsoft Defender for Office 365
 - Alert Type: Suspicious Email with Malicious Link
